@@ -14,8 +14,8 @@ header {
 }
 
 header h1 {
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5); /* Adjust the values as needed */
-    color: #fff; /* Change text color to orange */
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    color: #fff;
 }
 
 header h2 {
@@ -44,7 +44,6 @@ footer {
     grid-gap: 10px;
 }
 
-/* Style for individual images */
 .image-container img {
     width: 100%;
     height: auto;
